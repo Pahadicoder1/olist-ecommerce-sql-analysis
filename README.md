@@ -127,3 +127,8 @@ This project gave me hands-on experience working with a real-world e-commerce da
 # Project Files
 - `olist_sql_analysis.sql` – SQL queries for data cleaning, validation, relationship checks, and business analysis.
 - `README.md` – Documentation of the project.
+
+  ## Notes
+
+- The `olist_geolocation_dataset.csv` file is not included in this repository because it exceeds GitHub's web upload size limit.
+- You can download the complete dataset from the official Olist dataset on Kaggle if needed.
